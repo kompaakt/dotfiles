@@ -1,0 +1,6 @@
+rofi.show: run
+rofi.modi: window,ssh,run
+rofi.theme: .config/rofi/carbo.rasi
+rofi.fullscreen:true
+rofi.terminal:terminator
+rofi.font: Source Code Pro 20
