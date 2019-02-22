@@ -139,7 +139,7 @@ wrapping-scroll = false
 type = custom/script
 interval = 1
 format = <label>
-exec = python ~/scripts/spotify_status.py -f '{artist}: {song}'
+exec = python ~/.config/scripts/spotify_status.py -f '{artist}: {song}'
 format-underline = #1db954
 
 ; Only show workspaces on the same output as the bar
